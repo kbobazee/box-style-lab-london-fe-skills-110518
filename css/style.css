@@ -5,7 +5,8 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image:
+  background-image: white-wood.jpg;
+  background-size: cover;
 }
 
 * {box-sizing: border-box;
